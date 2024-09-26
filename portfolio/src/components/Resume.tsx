@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Apollo: React.FC = () => {
+const Resume: React.FC = () => {
   return (
     <section id="about">
-      <h2>Apollo</h2>
+      <h2>Resume</h2>
     </section>
   );
 };
 
-export default Apollo;
+export default Resume;
